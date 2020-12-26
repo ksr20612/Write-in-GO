@@ -11,3 +11,5 @@ Write in GO
 - search all .wav files under certain directories, search DB, and write json file containing meta-data about the wav files
 - using Standard library of GO
 - using GORM.io ( https://gorm.io/index.html )
+
+3. Machine learning with GO
