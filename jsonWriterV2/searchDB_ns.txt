@@ -1,0 +1,1 @@
+root:1234@tcp(localhost:3306)/ns_usOld?charset=utf8
