@@ -1,0 +1,1 @@
+root:1234@tcp(localhost:3306)/metrixA_revised?charset=utf8
